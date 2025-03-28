@@ -55,8 +55,8 @@ Follow these steps to set up the project locally:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/InfiniteLoop360/AI-Powered-Code-Reviewer.git
-cd AI-Powered-Code-Reviewer
+git clone https://github.com/InfiniteLoop360/Software-Code-Bug-Detection-Fixing.git
+cd Software-Code-Bug-Detection-Fixing
 ```
 
 ### 2️⃣ Backend Setup
