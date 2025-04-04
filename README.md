@@ -13,7 +13,7 @@ An AI-Powered Code Reviewer built using the **MERN Stack**! This project leverag
 - **Frontend:** React (Vite), Prism.js, Axios
 - **Backend:** Node.js, Express.js, Google Generative AI API
 - **Deployment:** https://software-code-bug-detection-fixing-y7wo.vercel.app/
-- 
+
 ## 📂 Project Structure
 ```
 BackEnd/
