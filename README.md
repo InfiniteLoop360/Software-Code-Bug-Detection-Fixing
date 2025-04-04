@@ -95,3 +95,11 @@ _Developed with ❤️ by Sudipto Maity_
 
 🌟 **Star this repo** if you found it useful!
 
+## Documentation
+
+[Click here to read the Documentation](https://drive.google.com/file/d/1mZ8OF9R9b35e9LBGt_Vcetv1zJffKdeX/view?usp=drive_link)
+
+## Demo
+
+https://drive.google.com/file/d/1igeWaKYdjHhB1wwTTwrbWFe3SMJUy2Lu/view?usp=drive_link
+
