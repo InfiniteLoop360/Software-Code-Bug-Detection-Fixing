@@ -3,7 +3,7 @@
 An AI-Powered Code Reviewer built using the **MERN Stack**! This project leverages **Artificial Intelligence** to analyze, review, and suggest improvements for code, enhancing development efficiency.
 
 ## 📝 Features
-- AI-driven code analysis and review
+- 💡 AI-driven code analysis and review
 - Syntax highlighting with **Prism.js**
 - Google Generative AI integration for code suggestions
 - Markdown rendering for improved readability
