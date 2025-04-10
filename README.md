@@ -4,10 +4,10 @@ An AI-Powered Code Reviewer built using the **MERN Stack**! This project leverag
 
 ## 📝 Features
 - 💡 AI-driven code analysis and review
-- Syntax highlighting with **Prism.js**
-- Google Generative AI integration for code suggestions
-- Markdown rendering for improved readability
-- Seamless frontend-backend communication using **Axios & CORS support**
+- 🎨 Syntax highlighting with **Prism.js**
+- 🤖 Google Generative AI integration for code suggestions
+- 📝 Markdown rendering for improved readability
+- 🔗 Seamless frontend-backend communication using **Axios & CORS support**
 
 ## 🛠️ Tech Stack
 - **Frontend:** React (Vite), Prism.js, Axios
